@@ -1,0 +1,3 @@
+Living Room ,  20  , Action: Turn on the AC
+Drawing Room ,  22  , Action: Turn on the AC
+Kitchen ,       34  , Action: Turn on the AC
